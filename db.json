@@ -1,0 +1,20 @@
+{
+  "companies": [
+    {"id": 11, "name": "Santech"},
+    {"id": 22, "name": "Ingima"},
+    {"id": 33, "name": "IngiCare"}
+  ],
+  "skills": [
+    {"id": "101", "name": "AngularJS"},
+    {"id": "102", "name": "Bootstrap"},
+    {"id": "103", "name": "jQuery"},
+    {"id": "104", "name": "React"},
+    {"id": "105", "name": "Ionic"},
+    {"id": "106", "name": "ReactNative"},
+    {"id": "107", "name": "Git"},
+    {"id": "108", "name": "Java"},
+    {"id": "109", "name": "Spring"},
+    {"id": "110", "name": "JHipster"}
+  ],
+  "users": []
+}
